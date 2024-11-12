@@ -22,14 +22,14 @@ This project was developed in **November 2024** as a practice exercise to unders
 To set up and run the project locally, follow these steps for both the **client** and **server** sides:
 
 ### Server Setup
-1. **Clone the repository** and navigate to the server directory:
-   ```bash
-   git clone https://github.com/username/chat-app.git
-   cd chat-app/server
+**Clone the repository** and navigate to the server directory:
 
-    Install dependencies:
+    git clone https://github.com/username/chat-app.git
+    cd chat-app/server
 
-npm install
+Install dependencies:
+
+    npm install
 
 Start the server:
 
