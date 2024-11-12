@@ -20,4 +20,4 @@ This project was created to explore:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/chat-app.git
+   git clone https://github.com/truongblake/chat-app.git
